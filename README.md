@@ -1,6 +1,6 @@
 # Awesome LIDAR List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="img/lidar.svg" align="right" width="100">](https://www.qt.io)
+<img src="img/lidar.svg" align="right" width="100">
 
 > A curated list of awesome LIDAR sensors and its applications.
 
