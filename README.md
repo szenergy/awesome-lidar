@@ -14,9 +14,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Manufacturers](#manufacturers)
 - [Datasets](#datasets)
 - [Algorithms](#algorithms)
-  - [LIDAR-based odometry and or mapping, LOAM](#TODO)
-  - [Simultaneous localization and mapping, SLAM](#TODO)
-  - [Object detection and object tracking](#TODO)
+  - [LIDAR-based odometry and or mapping, LOAM](#lidar-based-odometry-and-or-mapping-loam)
+  - [Simultaneous localization and mapping, SLAM](#simultaneous-localization-and-mapping-slam)
+  - [Object detection and object tracking](#object-detection-and-object-tracking)
 - [Simulators](#simulators)
 - [Others](#others)
 
@@ -34,7 +34,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :movie_camera:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer.
-- [Hokuyo]https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer.
+- [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer.
 
 
 ## Datasets
