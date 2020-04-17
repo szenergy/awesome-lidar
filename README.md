@@ -14,8 +14,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Manufacturers](#manufacturers)
 - [Datasets](#datasets)
 - [Algorithms](#algorithms)
-  - [LIDAR-based odometry and or mapping, LOAM](#lidar-based-odometry-and-or-mapping-loam)
-  - [Simultaneous localization and mapping, SLAM](#simultaneous-localization-and-mapping-slam)
+  - [LIDAR-based odometry and or mapping (LOAM)](#lidar-based-odometry-and-or-mapping-loam)
+  - [Simultaneous localization and mapping (SLAM)](#simultaneous-localization-and-mapping-slam)
   - [Object detection and object tracking](#object-detection-and-object-tracking)
 - [Simulators](#simulators)
 - [Others](#others)
@@ -23,17 +23,19 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 ## Conventions
 
 - Any list item with an OctoCat :octocat: has a GitHub repo or organization
-- Any list item with a MovieCamera :movie_camera: has YouTube videos or channel
+- Any list item with a RedCircle :red_circle: has YouTube videos or channel
 
 ## Manufacturers
 
 - [Velodyne](https://velodynelidar.com/) - LIDAR manufacturer.
-  - [YouTube channel :movie_camera:](https://www.youtube.com/user/VelodyneLiDAR)
+  - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
 - [Ouster](https://ouster.com/) - LIDAR manufacturer.
-  - [YouTube channel :movie_camera:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer.
+  - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
+  - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer.
 
 
@@ -41,12 +43,17 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. 
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - This dataset was collected with our robocar (in human driving mode of course), equipped up to eleven heterogeneous sensors, in the downtown (for long-term data) and a suburb (for roundabout data) of Montbéliard in France. The vehicle speed was limited to 50 km/h following the French traffic rules.
 - [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
+- [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
 
 ## Algorithms
 
 ### LIDAR-based odometry and or mapping (LOAM)
-
+- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
+- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 ### Simultaneous localization and mapping (SLAM)
+- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 
 ### Object detection and object tracking
 
