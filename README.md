@@ -59,8 +59,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Simulators
 - CoppeliaSim (formerly V-REP)
-- Gazebo
-- Unreal Engine, CARLA 
+- OSRF Gazebo (OGRE-based, http://gazebosim.org/, :octocat: https://bitbucket.org/osrf/gazebo/src/gazebo11/)
+- CARLA (Unreal Engine based, https://carla.org/, :octocat: https://github.com/carla-simulator/carla)
+- LGSVL (Unity Engine based, https://www.lgsvlsimulator.com/, :octocat: https://github.com/lgsvl/simulator)
 
 ## Others
 - [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn pointcloud data from aerial lidar scans into solid meshes for 3D printing.
