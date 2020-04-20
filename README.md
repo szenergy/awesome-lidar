@@ -44,6 +44,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - This dataset was collected with our robocar (in human driving mode of course), equipped up to eleven heterogeneous sensors, in the downtown (for long-term data) and a suburb (for roundabout data) of Montbéliard in France. The vehicle speed was limited to 50 km/h following the French traffic rules.
 - [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
+- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Public widespread dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 
 ## Algorithms
 
@@ -59,9 +60,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Simulators
 - CoppeliaSim (formerly V-REP)
-- OSRF Gazebo (OGRE-based, http://gazebosim.org/, :octocat: https://bitbucket.org/osrf/gazebo/src/gazebo11/)
-- CARLA (Unreal Engine based, https://carla.org/, :octocat: https://github.com/carla-simulator/carla)
-- LGSVL (Unity Engine based, https://www.lgsvlsimulator.com/, :octocat: https://github.com/lgsvl/simulator)
+- [OSRF Gazebo](http://gazebosim.org/) (OGRE-based, :octocat: https://bitbucket.org/osrf/gazebo/src/gazebo11/)
+- [CARLA](https://carla.org/) (Unreal Engine based, :octocat: https://github.com/carla-simulator/carla)
+- [LGSVL](https://www.lgsvlsimulator.com/) (Unity Engine based, :octocat: https://github.com/lgsvl/simulator)
 
 ## Others
 - [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn pointcloud data from aerial lidar scans into solid meshes for 3D printing.
