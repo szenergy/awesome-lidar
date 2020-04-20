@@ -13,6 +13,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Conventions](#conventions)
 - [Manufacturers](#manufacturers)
 - [Datasets](#datasets)
+- [Libraries](#libraries)
 - [Algorithms](#algorithms)
   - [LIDAR-based odometry and or mapping (LOAM)](#lidar-based-odometry-and-or-mapping-loam)
   - [Simultaneous localization and mapping (SLAM)](#simultaneous-localization-and-mapping-slam)
@@ -44,9 +45,16 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - This dataset was collected with our robocar (in human driving mode of course), equipped up to eleven heterogeneous sensors, in the downtown (for long-term data) and a suburb (for roundabout data) of Montbéliard in France. The vehicle speed was limited to 50 km/h following the French traffic rules.
 - [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
-- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Public widespread dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
+- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
+
+## Libraries
+- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - popular highly parallel programming library, with numerous industrial and research use-cases. 
 
 ## Algorithms
+
+### Matching
+- [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - a must-have algorithm in feature matching.
+- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - a new approach to feature matching.
 
 ### LIDAR-based odometry and or mapping (LOAM)
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
