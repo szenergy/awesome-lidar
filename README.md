@@ -14,7 +14,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Manufacturers](#manufacturers)
 - [Datasets](#datasets)
 - [Libraries](#libraries)
+- [Frameworks](#frameworks)
 - [Algorithms](#algorithms)
+  - [Basic matching algorithms](#basic-matching-algorithms)
   - [LIDAR-based odometry and or mapping (LOAM)](#lidar-based-odometry-and-or-mapping-loam)
   - [Simultaneous localization and mapping (SLAM)](#simultaneous-localization-and-mapping-slam)
   - [Object detection and object tracking](#object-detection-and-object-tracking)
@@ -48,13 +50,17 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 
 ## Libraries
-- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - popular highly parallel programming library, with numerous industrial and research use-cases. 
+- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
+
+## Frameworks
+- [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
+  - [GitLab repository :octocat:](https://gitlab.com/autowarefoundation/autoware.ai)
 
 ## Algorithms
 
-### Matching
-- [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - a must-have algorithm in feature matching.
-- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - a new approach to feature matching.
+### Basic matching algorithms
+- [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications.
+- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching.
 
 ### LIDAR-based odometry and or mapping (LOAM)
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
@@ -68,9 +74,12 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Simulators
 - CoppeliaSim (formerly V-REP)
-- [OSRF Gazebo](http://gazebosim.org/) (OGRE-based, :octocat: https://bitbucket.org/osrf/gazebo/src/gazebo11/)
-- [CARLA](https://carla.org/) (Unreal Engine based, :octocat: https://github.com/carla-simulator/carla)
-- [LGSVL](https://www.lgsvlsimulator.com/) (Unity Engine based, :octocat: https://github.com/lgsvl/simulator)
+- [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
+  - [BitBucket repository :octocat:](https://bitbucket.org/osrf/gazebo/src/gazebo11/)
+- [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+  - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
+- [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+  - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
 
 ## Others
 - [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn pointcloud data from aerial lidar scans into solid meshes for 3D printing.
