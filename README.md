@@ -33,7 +33,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Velodyne](https://velodynelidar.com/) - LIDAR manufacturer.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
-- [Ouster](https://ouster.com/) - LIDAR manufacturer.
+- [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Livox](https://www.livoxtech.com/) - LIDAR manufacturer.
@@ -43,6 +43,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer.
+- [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LiDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1VGM4uK3xo7896iOpiMzJA)
 
 
 ## Datasets
@@ -54,6 +56,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
+- [Semantic KITTI](http://semantic-kitti.org/) - Dataset for semantic and panoptic scene segmentation.
 
 ## Libraries
 - [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
@@ -72,9 +75,17 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
+### Semantic segmentation
+- [RangeNet++](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf): Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
+  - [GitHub :octocat:](https://github.com/PRBonn/rangenet_lib)
 ### Simultaneous localization and mapping (SLAM)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
+- [SuMa++](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf): LiDAR-based Semantic SLAM.
+  - [GitHub :octocat:](https://github.com/PRBonn/semantic_suma/)
+- [OverlapNet](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf): Loop Closing for LiDAR-based SLAM.
+  - [GitHub :octocat:](https://github.com/PRBonn/OverlapNet)
+
 
 ### Object detection and object tracking
 
