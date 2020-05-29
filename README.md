@@ -36,6 +36,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Ouster](https://ouster.com/) - LIDAR manufacturer.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
+- [Livox](https://www.livoxtech.com/) - LIDAR manufacturer.
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
+  - [GitHub organization :octocat:](https://github.com/Livox-SDK)
 - [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
