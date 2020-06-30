@@ -43,8 +43,12 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer.
-- [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LiDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
+- [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1VGM4uK3xo7896iOpiMzJA)
+- [Luminar](https://www.luminartech.com/) - LIDAR manufacturer focusing on compact, auto-grade sensors.
+  - [Vimeo channel :red_circle:](https://vimeo.com/luminartech)
+  - [GitHub organization :octocat:](https://github.com/luminartech)
 
 
 ## Datasets
@@ -57,6 +61,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 - [Semantic KITTI](http://semantic-kitti.org/) - Dataset for semantic and panoptic scene segmentation.
+- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
 
 ## Libraries
 - [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
