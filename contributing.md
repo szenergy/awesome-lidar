@@ -1,0 +1,3 @@
+# Contribution Guidelines
+Contributions are very welcome, but please not that we are following the [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) guidelines. Please note that this project is released with a [Contributor Code of Conduct](https://github.com/sindresorhus/awesome/blob/main/code-of-conduct.md). By participating in this project you agree to abide by its terms.
+[Pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) are easy way to contibute.
