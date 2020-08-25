@@ -76,10 +76,15 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Libraries
 - [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
+  - [GitHub :octocat:](https://github.com/PointCloudLibrary/pcl)
+- [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
+  - [GitHub :octocat:](https://github.com/intel-isl/Open3D)
 
 ## Frameworks
 - [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
   - [GitLab repository :octocat:](https://gitlab.com/autowarefoundation/autoware.ai)
+- [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
+  - [GitHub repository :octocat:](https://github.com/ApolloAuto/apollo)
 
 ## Algorithms
 
