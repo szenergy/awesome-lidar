@@ -31,31 +31,33 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Manufacturers
 
-- [Velodyne](https://velodynelidar.com/) - LIDAR manufacturer.
+- [Velodyne](https://velodynelidar.com/) - LIDAR manufacturer. The headquarter is in	San Jose, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
-- [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs.
+- [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Livox](https://www.livoxtech.com/) - LIDAR manufacturer.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
   - [GitHub organization :octocat:](https://github.com/Livox-SDK)
-- [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer.
+- [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer, the headquarter is located in	Waldkirch, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
-- [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer.
+- [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer, headquartered in Osaka, Japan.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
-- [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR).
+- [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR). Pioneer is headquartered in Tokyo, Japan.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1VGM4uK3xo7896iOpiMzJA)
-- [Luminar](https://www.luminartech.com/) - LIDAR manufacturer focusing on compact, auto-grade sensors.
+- [Luminar](https://www.luminartech.com/) - LIDAR manufacturer focusing on compact, auto-grade sensors. Luminar is headquartered Palo Alto, California, USA.
   - [Vimeo channel :red_circle:](https://vimeo.com/luminartech)
   - [GitHub organization :octocat:](https://github.com/luminartech)
-- [Hesai](https://www.hesaitech.com/) - Hesai Technology is a LIDAR manufacturer, founded in Shanghai.
+- [Hesai](https://www.hesaitech.com/) - Hesai Technology is a LIDAR manufacturer, founded in Shanghai, China.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCG2_ffm6sdMsK-FX8yOLNYQ/videos)
   - [GitHub organization :octocat:](https://github.com/HesaiTechnology)
-- [Robosense](http://www.robosense.ai/) - RoboSense (Suteng Innovation Technology Co., Ltd.) is a LIDAR sensor, AI algorithm and IC chipset maufactuirer based in Shenzhen, Beijing.
+- [Robosense](http://www.robosense.ai/) - RoboSense (Suteng Innovation Technology Co., Ltd.) is a LIDAR sensor, AI algorithm and IC chipset maufactuirer based in Shenzhen and Beijing (China).
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
+- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 
 
 ## Datasets
