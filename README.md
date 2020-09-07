@@ -28,6 +28,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 - Any list item with an OctoCat :octocat: has a GitHub repo or organization
 - Any list item with a RedCircle :red_circle: has YouTube videos or channel
+- Any list item with a Paper :newspaper: has a scientific paper or detailed description
 
 ## Manufacturers
 
@@ -109,6 +110,14 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 
 ### Object detection and object tracking
+- [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
+  - [GitHub :octocat:](https://github.com/peiyunh/opcseg)
+- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf) - By Di Feng, Lars Rosenbaum, Fabian Timm, Klaus Dietmayer. 30th IEEE Intelligent Vehicles Symposium, 2019.
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
+- [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
+  - [GitHub :octocat:](https://github.com/peiyunh/WYSIWYG)
 
 ## Simulators
 - CoppeliaSim (formerly V-REP)
