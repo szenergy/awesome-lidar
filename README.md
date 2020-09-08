@@ -4,7 +4,7 @@
 
 > A curated list of awesome LIDAR sensors and its applications.
 
-LIDAR is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy.
+LIDAR is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as pointcloud which means set of data points in 3D or 2D.
 
 Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
@@ -62,52 +62,67 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 
 ## Datasets
+
 - [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
 - [Audi A2D2 Dataset](https://www.a2d2.audi) - The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.
 - [Waymo Open Dataset](https://waymo.com/open/) - The dataset contains independently-generated labels for lidar and camera data, not simply projections.
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. 
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - This dataset was collected with our robocar (in human driving mode of course), equipped up to eleven heterogeneous sensors, in the downtown (for long-term data) and a suburb (for roundabout data) of Montbéliard in France. The vehicle speed was limited to 50 km/h following the French traffic rules.
 - [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
+  - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 - [Semantic KITTI](http://semantic-kitti.org/) - Dataset for semantic and panoptic scene segmentation.
 - [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
+  - [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50) - University of Toronto, aUToronto's self-driving car dataset, which contains GPS/IMU, 3D LIDAR, and Monocular camera data. It can be used for 3D pedestrian detection.
+  - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
 - [PandaSet Open Dataset](https://scale.com/open-datasets/pandaset) - Public large-scale dataset for autonomous driving provided by Hesai & Scale. It enables researchers to study challenging urban driving situations using the full sensor suit of a real self-driving-car.
 
 ## Libraries
+
 - [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
   - [GitHub :octocat:](https://github.com/PointCloudLibrary/pcl)
 - [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
   - [GitHub :octocat:](https://github.com/intel-isl/Open3D)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
+- [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
+  - [GitHub :octocat:](https://github.com/rusty1s/pytorch_geometric)
 
 ## Frameworks
+
 - [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
   - [GitLab repository :octocat:](https://gitlab.com/autowarefoundation/autoware.ai)
+  - [Paper :newspaper:](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
 - [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
   - [GitHub repository :octocat:](https://github.com/ApolloAuto/apollo)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC8wR_NX_NShUTSSqIaEUY9Q)
 
 ## Algorithms
 
 ### Basic matching algorithms
-- [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications.
-- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching.
+- [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
+- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
 
 ### LIDAR-based odometry and or mapping (LOAM)
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
+
 ### Semantic segmentation
-- [RangeNet++](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
+- [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
   - [GitHub :octocat:](https://github.com/PRBonn/rangenet_lib)
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
+
 ### Simultaneous localization and mapping (SLAM)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
-- [SuMa++](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
+- [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
   - [GitHub :octocat:](https://github.com/PRBonn/semantic_suma/)
-- [OverlapNet](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
+  - [YouTube :red_circle:](https://youtu.be/uo3ZuLuFAzk)
+- [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
   - [GitHub :octocat:](https://github.com/PRBonn/OverlapNet)
-
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
@@ -120,13 +135,15 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub :octocat:](https://github.com/peiyunh/WYSIWYG)
 
 ## Simulators
-- CoppeliaSim (formerly V-REP)
+- [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC5FaWsv86tedI3jBcMigp5g)
 - [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
 - [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
   - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
 - [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UChrPZIYAnKEKiQjmPmBwPKA)
 
 ## Others
 - [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn pointcloud data from aerial lidar scans into solid meshes for 3D printing.
