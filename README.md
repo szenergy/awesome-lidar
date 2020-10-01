@@ -59,6 +59,12 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
 - [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
+- [Innoviz](https://innoviz.tech/) - Innoviz technologies / specializes in solid-state Lidars.
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
+- [Quanenergy](https://quanergy.com/) - Quanenergy Systems / solid-state and Mechanical Lidar sensors / offers End-to-End solutions in Mapping, Industrial Automation, Transportation and Security.
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCczCM_jVyZk-19_iUuQq_9g)
+- [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology.
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
 
 
 ## Datasets
