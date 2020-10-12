@@ -119,6 +119,11 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
   - [GitHub :octocat:](https://github.com/PRBonn/rangenet_lib)
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
+- [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
+  - [GitHub :octocat:](https://github.com/edwardzhou130/PolarSeg)
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
+- [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
+  - [GitHub :octocat:](https://github.com/charlesq34/frustum-pointnets)
 
 ### Simultaneous localization and mapping (SLAM)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
