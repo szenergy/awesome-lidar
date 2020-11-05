@@ -17,9 +17,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Frameworks](#frameworks)
 - [Algorithms](#algorithms)
   - [Basic matching algorithms](#basic-matching-algorithms)
-  - [LIDAR-based odometry and or mapping (LOAM)](#lidar-based-odometry-and-or-mapping-loam)
   - [Semantic segmentation](#semantic-segmentation)
-  - [Simultaneous localization and mapping (SLAM)](#simultaneous-localization-and-mapping-slam)
+  - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
   - [Object detection and object tracking](#object-detection-and-object-tracking)
 - [Simulators](#simulators)
 - [Others](#others)
@@ -94,6 +93,16 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 - [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
   - [GitHub :octocat:](https://github.com/rusty1s/pytorch_geometric)
+- [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
+  - [GitHub :octocat:](https://github.com/facebookresearch/pytorch3d)
+- [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
+  - [GitHub :octocat:](https://github.com/NVIDIAGameWorks/kaolin/)
+  - [Paper :newspaper:](https://arxiv.org/pdf/1911.05063.pdf)
+- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit .
+  - [GitHub :octocat:](https://github.com/pyvista/pyvista)
+  - [Paper :newspaper:](https://joss.theoj.org/papers/10.21105/joss.01450)
+- [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
+  - [GitHub :octocat:](https://github.com/daavoo/pyntcloud)
 
 ## Frameworks
 
@@ -110,11 +119,6 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
 - [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
 
-### LIDAR-based odometry and or mapping (LOAM)
-- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
-- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-
 ### Semantic segmentation
 - [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
   - [GitHub :octocat:](https://github.com/PRBonn/rangenet_lib)
@@ -124,8 +128,14 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 - [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
   - [GitHub :octocat:](https://github.com/charlesq34/frustum-pointnets)
+- [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
+  - [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
+  - [GitHub :octocat:](http://ltriess.github.io/scan-semseg)
 
-### Simultaneous localization and mapping (SLAM)
+### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
+- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
+- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
+  - [YouTube :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
   - [YouTube :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
