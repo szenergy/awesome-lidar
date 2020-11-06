@@ -4,7 +4,7 @@
 
 > A curated list of awesome LIDAR sensors and its applications.
 
-LIDAR is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as pointcloud which means set of data points in 3D or 2D.
+LIDAR is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as point cloud which means set of data points in 3D or 2D. The list contains hardwares, datasets, point cloud-processing algorithms, point cloud frameworks, simulators etc.
 
 Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
@@ -167,4 +167,5 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UChrPZIYAnKEKiQjmPmBwPKA)
 
 ## Others
-- [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn pointcloud data from aerial lidar scans into solid meshes for 3D printing.
+- [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+- [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory.
