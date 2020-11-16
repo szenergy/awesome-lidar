@@ -31,22 +31,22 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Manufacturers
 
-- [Velodyne](https://velodynelidar.com/) - LIDAR manufacturer. The headquarter is in	San Jose, California, USA.
+- [Velodyne](https://velodynelidar.com/) - Velodyne is a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
 - [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
-  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRB5JpLey3BA-1P9XyrErTA/)
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/Ouster-lidar)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Livox](https://www.livoxtech.com/) - LIDAR manufacturer.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
   - [GitHub organization :octocat:](https://github.com/Livox-SDK)
-- [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer, the headquarter is located in	Waldkirch, Germany.
+- [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer, the headquarter is located in Waldkirch, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer, headquartered in Osaka, Japan.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
 - [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR). Pioneer is headquartered in Tokyo, Japan.
-  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1VGM4uK3xo7896iOpiMzJA)
+  - [YouTube channel :red_circle:](https://www.youtube.com/user/PioneerCorporationPR)
 - [Luminar](https://www.luminartech.com/) - LIDAR manufacturer focusing on compact, auto-grade sensors. Luminar is headquartered Palo Alto, California, USA.
   - [Vimeo channel :red_circle:](https://vimeo.com/luminartech)
   - [GitHub organization :octocat:](https://github.com/luminartech)
@@ -58,13 +58,17 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
 - [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
-- [Innoviz](https://innoviz.tech/) - Innoviz technologies / specializes in solid-state Lidars.
+- [Innoviz](https://innoviz.tech/) - Innoviz technologies / specializes in solid-state LIDARs.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
-- [Quanenergy](https://quanergy.com/) - Quanenergy Systems / solid-state and Mechanical Lidar sensors / offers End-to-End solutions in Mapping, Industrial Automation, Transportation and Security.
-  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCczCM_jVyZk-19_iUuQq_9g)
-- [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology.
+- [Quanenergy](https://quanergy.com/) - Quanenergy Systems / solid-state and mechanical LIDAR sensors / offers End-to-End solutions in Mapping, Industrial Automation, Transportation and Security. The headquarter is located in Sunnyvale, California, USA.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
+- [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology. The headquarter is located in San Jose, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
-
+- [Blickfeld](https://www.blickfeld.com/) - Blickfeld is a solid-state LIDAR manufacturer for autonomous mobility and IoT, based in München, Germany.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
+  - [GitHub organization :octocat:](https://github.com/Blickfeld)
+- [Neuvition](https://www.neuvition.com/) - Neuvition is a solid-state LIDAR manufacturer based in Wujiang, China.
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
 
 ## Datasets
 
@@ -98,7 +102,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
   - [GitHub :octocat:](https://github.com/NVIDIAGameWorks/kaolin/)
   - [Paper :newspaper:](https://arxiv.org/pdf/1911.05063.pdf)
-- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit .
+- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
   - [GitHub :octocat:](https://github.com/pyvista/pyvista)
   - [Paper :newspaper:](https://joss.theoj.org/papers/10.21105/joss.01450)
 - [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
@@ -167,5 +171,5 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UChrPZIYAnKEKiQjmPmBwPKA)
 
 ## Others
-- [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
-- [Semantic Segmentation Editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory.
+- [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+- [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory.
