@@ -42,7 +42,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub organization :octocat:](https://github.com/Livox-SDK)
 - [SICK](https://www.sick.com/ag/en/) - Sensor and automation manufacturer, the headquarter is located in Waldkirch, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/SICKSensors)
-  - [GitHub organization :octocat:](https://github.com/ouster-lidar)
+  - [GitHub organization :octocat:](https://github.com/SICKAG)
 - [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer, headquartered in Osaka, Japan.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
 - [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR). Pioneer is headquartered in Tokyo, Japan.
