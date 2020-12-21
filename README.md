@@ -82,7 +82,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Lyft](https://level5.lyft.com/dataset/) - Public dataset collected by a fleet of Ford Fusion vehicles equipped with LIDAR and camera.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 - [Semantic KITTI](http://semantic-kitti.org/) - Dataset for semantic and panoptic scene segmentation.
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
 - [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
   - [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50) - University of Toronto, aUToronto's self-driving car dataset, which contains GPS/IMU, 3D LIDAR, and Monocular camera data. It can be used for 3D pedestrian detection.
@@ -92,22 +92,22 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 ## Libraries
 
 - [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
-  - [GitHub :octocat:](https://github.com/PointCloudLibrary/pcl)
+  - [GitHub repository :octocat:](https://github.com/PointCloudLibrary/pcl)
 - [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-  - [GitHub :octocat:](https://github.com/intel-isl/Open3D)
+  - [GitHub repository :octocat:](https://github.com/intel-isl/Open3D)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
 - [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
-  - [GitHub :octocat:](https://github.com/rusty1s/pytorch_geometric)
+  - [GitHub repository :octocat:](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch3d](https://pytorch3d.org/) - PyTorch3d is a library for deep learning with 3D data written and maintained by the Facebook AI Research Computer Vision Team.
-  - [GitHub :octocat:](https://github.com/facebookresearch/pytorch3d)
+  - [GitHub repository :octocat:](https://github.com/facebookresearch/pytorch3d)
 - [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
-  - [GitHub :octocat:](https://github.com/NVIDIAGameWorks/kaolin/)
+  - [GitHub repository :octocat:](https://github.com/NVIDIAGameWorks/kaolin/)
   - [Paper :newspaper:](https://arxiv.org/pdf/1911.05063.pdf)
 - [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
-  - [GitHub :octocat:](https://github.com/pyvista/pyvista)
+  - [GitHub repository :octocat:](https://github.com/pyvista/pyvista)
   - [Paper :newspaper:](https://joss.theoj.org/papers/10.21105/joss.01450)
 - [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
-  - [GitHub :octocat:](https://github.com/daavoo/pyntcloud)
+  - [GitHub repository :octocat:](https://github.com/daavoo/pyntcloud)
 
 ## Frameworks
 
@@ -116,7 +116,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [Paper :newspaper:](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
 - [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
   - [GitHub repository :octocat:](https://github.com/ApolloAuto/apollo)
-  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC8wR_NX_NShUTSSqIaEUY9Q)
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/ApolloAuto)
 
 ## Algorithms
 
@@ -126,50 +126,51 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ### Semantic segmentation
 - [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
-  - [GitHub :octocat:](https://github.com/PRBonn/rangenet_lib)
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
+  - [GitHub repository :octocat:](https://github.com/PRBonn/rangenet_lib)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
 - [PolarNet :newspaper:](https://arxiv.org/pdf/2003.14032.pdf) - An Improved Grid Representation for Online LiDAR Point Clouds Semantic Segmentation.
-  - [GitHub :octocat:](https://github.com/edwardzhou130/PolarSeg)
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
+  - [GitHub repository :octocat:](https://github.com/edwardzhou130/PolarSeg)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 - [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) - Frustum PointNets for 3D Object Detection from RGB-D Data.
-  - [GitHub :octocat:](https://github.com/charlesq34/frustum-pointnets)
+  - [GitHub repository :octocat:](https://github.com/charlesq34/frustum-pointnets)
 - [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
   - [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
-  - [GitHub :octocat:](http://ltriess.github.io/scan-semseg)
+  - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
-  - [GitHub :octocat:](https://github.com/PRBonn/semantic_suma/)
-  - [YouTube :red_circle:](https://youtu.be/uo3ZuLuFAzk)
+  - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
+  - [YouTube video :red_circle:](https://youtu.be/uo3ZuLuFAzk)
 - [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
-  - [GitHub :octocat:](https://github.com/PRBonn/OverlapNet)
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
+  - [GitHub repository :octocat:](https://github.com/PRBonn/OverlapNet)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
-  - [GitHub :octocat:](https://github.com/peiyunh/opcseg)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
+  - [GitHub repository :octocat:](https://github.com/peiyunh/opcseg)
 - [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf) - By Di Feng, Lars Rosenbaum, Fabian Timm, Klaus Dietmayer. 30th IEEE Intelligent Vehicles Symposium, 2019.
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
-  - [YouTube :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
-  - [GitHub :octocat:](https://github.com/peiyunh/WYSIWYG)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
+  - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
 
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
-  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC5FaWsv86tedI3jBcMigp5g)
+  - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 - [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
 - [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
   - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
 - [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
-  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UChrPZIYAnKEKiQjmPmBwPKA)
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
 
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
