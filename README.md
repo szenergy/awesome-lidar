@@ -153,6 +153,10 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/OverlapNet)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
+- [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
+  - [GitHub repository :octocat:](https://github.com/TixiaoShan/LIO-SAM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
+
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
@@ -179,4 +183,6 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) - Point cloud importer/renderer for Unity.
+- [Bpy :octocat:](https://github.com/uhlik/bpy) - Point cloud importer/renderer/editor for Blender, Point Cloud visualizer.
 - [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Point cloud and image semantic segmentation editor by Hitachi Automotive And Industry Laboratory.
+- [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
