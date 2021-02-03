@@ -93,6 +93,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50) - University of Toronto, aUToronto's self-driving car dataset, which contains GPS/IMU, 3D LIDAR, and Monocular camera data. It can be used for 3D pedestrian detection.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
 - [PandaSet Open Dataset](https://scale.com/open-datasets/pandaset) - Public large-scale dataset for autonomous driving provided by Hesai & Scale. It enables researchers to study challenging urban driving situations using the full sensor suit of a real self-driving-car.
+- [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.
+  - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 
 ## Libraries
 
