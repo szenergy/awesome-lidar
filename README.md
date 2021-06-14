@@ -116,6 +116,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [Paper :newspaper:](https://joss.theoj.org/papers/10.21105/joss.01450)
 - [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
   - [GitHub repository :octocat:](https://github.com/daavoo/pyntcloud)
+- [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
+  - [GitHub repository :octocat:](https://github.com/virtual-vehicle/pointcloudset) 
 
 ## Frameworks
 
