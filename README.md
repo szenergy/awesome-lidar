@@ -121,6 +121,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Frameworks
 
+- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
 - [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
   - [GitLab repository :octocat:](https://gitlab.com/autowarefoundation/autoware.ai)
   - [Paper :newspaper:](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
