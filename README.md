@@ -151,6 +151,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
   - [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
+- [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
+  - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
