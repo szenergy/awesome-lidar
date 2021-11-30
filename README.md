@@ -154,6 +154,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
+- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
