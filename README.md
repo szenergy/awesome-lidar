@@ -4,7 +4,7 @@
 
 > A curated list of awesome LIDAR sensors and its applications.
 
-[LIDAR](https://en.wikipedia.org/wiki/Lidar) is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as point cloud which means set of data points in 3D or 2D. The list contains hardwares, datasets, point cloud-processing algorithms, point cloud frameworks, simulators etc.
+[LIDAR](https://en.wikipedia.org/wiki/Lidar) is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as point cloud which means set of data points in 3D or 2D. The list contains hardwares, datasets, point cloud-processing algorithms, point cloud frameworks, simulators etc.
 
 Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
@@ -156,6 +156,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 - [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
+- [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
+  - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
@@ -183,6 +186,10 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
   - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
+- [urban_road_filter :newspaper:](https://doi.org/10.3390/s22010194)-
+Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
+  - [GitHub repository :octocat:](https://github.com/jkk-research/urban_road_filter)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=9tdzo2AyaHM)
 
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
@@ -210,7 +217,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Awesome deep learning :octocat:](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 - [Awesome reinforcement learning :octocat:](https://github.com/aikorea/awesome-rl/#readme)
 - [Awesome SLAM datasets :octocat:](https://github.com/youngguncho/awesome-slam-datasets#readme)
-- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme) 
+- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme)
 - [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## Others
