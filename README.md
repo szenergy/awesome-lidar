@@ -175,7 +175,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
   - [GitHub repository :octocat:](https://github.com/TixiaoShan/LIO-SAM)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
-
+- [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
+  - [GitHub repository :octocat:](https://github.com/irapkaist/removert)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
@@ -189,7 +191,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [urban_road_filter :newspaper:](https://doi.org/10.3390/s22010194)-
 Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub repository :octocat:](https://github.com/jkk-research/urban_road_filter)
-  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=9tdzo2AyaHM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
