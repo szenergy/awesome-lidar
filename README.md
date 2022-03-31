@@ -10,19 +10,19 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Contents
 
-- [Conventions](#conventions)
-- [Manufacturers](#manufacturers)
-- [Datasets](#datasets)
-- [Libraries](#libraries)
-- [Frameworks](#frameworks)
-- [Algorithms](#algorithms)
-  - [Basic matching algorithms](#basic-matching-algorithms)
-  - [Semantic segmentation](#semantic-segmentation)
-  - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
-  - [Object detection and object tracking](#object-detection-and-object-tracking)
-- [Simulators](#simulators)
-- [Related awesome](#related-awesome)
-- [Others](#others)
+  - [Conventions](#conventions)
+  - [Manufacturers](#manufacturers)
+  - [Datasets](#datasets)
+  - [Libraries](#libraries)
+  - [Frameworks](#frameworks)
+  - [Algorithms](#algorithms)
+    - [Basic matching algorithms](#basic-matching-algorithms)
+    - [Semantic segmentation](#semantic-segmentation)
+    - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
+    - [Object detection and object tracking](#object-detection-and-object-tracking)
+  - [Simulators](#simulators)
+  - [Related awesome](#related-awesome)
+  - [Others](#others)
 
 ## Conventions
 
@@ -234,3 +234,6 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 - [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
+- [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
+  - [GitHub repository :octocat:](https://github.com/foxglove/studio)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
