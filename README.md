@@ -98,6 +98,10 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 - [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/) - Long-term, large-scale dataset collected over the period of 1.5 years on a weekly basis over the University of Sydney campus and surrounds. It includes multiple sensor modalities and covers various environmental conditions. ROS compatible
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
+- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+  - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
+
 
 ## Libraries
 
