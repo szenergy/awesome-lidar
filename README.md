@@ -70,6 +70,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub organization :octocat:](https://github.com/Blickfeld)
 - [Neuvition](https://www.neuvition.com/) - Neuvition is a solid-state LIDAR manufacturer based in Wujiang, China.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
+- [Aeva](https://www.aeva.com/) - Aeva is bringing the next wave of perception technology to all devices for automated driving, consumer electronics, health, industrial robotics and security, Mountain View, California, USA.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/AevaInc)
+  - [GitHub organization :octocat:](https://github.com/aevainc)
 
 ## Datasets
 
