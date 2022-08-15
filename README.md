@@ -104,6 +104,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
+- [Argoverse :octocat:](https://www.argoverse.org/) - A dataset designed to support autonomous vehicle perception tasks including 3D tracking and motion forecasting collected in Pittsburgh, Pennsylvania and Miami, Florida, USA.
+  - [Paper :newspaper:](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=DM8jWfi69zM)
 
 
 ## Libraries
