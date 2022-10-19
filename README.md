@@ -178,7 +178,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data 
   - [GitHub repository :octocat:](https://github.com/LimHyungTae/patchwork)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
-- [[Patchwork++ :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
+- [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
   - [GitHub repository :octocat:](https://github.com/url-kaist/patchwork-plusplus)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
 
