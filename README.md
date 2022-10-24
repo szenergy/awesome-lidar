@@ -166,11 +166,22 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
-- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
-  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 - [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
+
+### Ground segmentation
+- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
+- [LineFit Graph :newspaper:](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
+  - [GitHub repository :octocat:](https://github.com/lorenwel/linefit_ground_segmentation)
+- [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data 
+  - [GitHub repository :octocat:](https://github.com/LimHyungTae/patchwork)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
+- [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
+  - [GitHub repository :octocat:](https://github.com/url-kaist/patchwork-plusplus-ros)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
+
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
