@@ -179,7 +179,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository :octocat:](https://github.com/LimHyungTae/patchwork)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
 - [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
-  - [GitHub repository :octocat:](https://github.com/url-kaist/patchwork-plusplus)
+  - [GitHub repository :octocat:](https://github.com/url-kaist/patchwork-plusplus-ros)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
 
 
