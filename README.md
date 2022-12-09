@@ -10,6 +10,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Contents
 
+- [Awesome LIDAR ](#awesome-lidar-)
+  - [Contents](#contents)
   - [Conventions](#conventions)
   - [Manufacturers](#manufacturers)
   - [Datasets](#datasets)
@@ -18,6 +20,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [Algorithms](#algorithms)
     - [Basic matching algorithms](#basic-matching-algorithms)
     - [Semantic segmentation](#semantic-segmentation)
+    - [Ground segmentation](#ground-segmentation)
     - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
     - [Object detection and object tracking](#object-detection-and-object-tracking)
   - [Simulators](#simulators)
@@ -169,6 +172,12 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
+- [RandLA-Net :newspaper:](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
+  - [GitHub repository :octocat:](https://github.com/QingyongHu/RandLA-Net)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ar3eY_lwzMk)
+- [Automatic labelling :newspaper:](https://arxiv.org/pdf/2108.13757.pdf) - Automatic labelling of urban point clouds using data fusion
+  - [GitHub repository :octocat:](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=qMj_WM6D0vI)
 
 ### Ground segmentation
 - [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
