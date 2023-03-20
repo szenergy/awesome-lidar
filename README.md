@@ -231,23 +231,30 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
-- [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
+- [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
-- [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+- [CARLA](https://carla.org/) - Unreal Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
   - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
-- [LGSVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS2.
+- [LGSVL / SVL](https://www.lgsvlsimulator.com/) - Unity Engine based simulator for automotive applications. Compatible with Autoware, Baidu Apollo and ROS/ROS 2. *Note:* LG has made the difficult decision to [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) active development of SVL Simulator.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
+- [OSSDC SIM](https://github.com/OSSDC/OSSDC-SIM) - Unity Engine based simulator for automotive applications, based on the suspended LGSVL simulator, but an active development. Compatible with Autoware, Baidu Apollo and ROS/ROS 2.
+  - [GitHub repository :octocat:](https://github.com/OSSDC/OSSDC-SIM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 - [AirSim](https://microsoft.github.io/AirSim) - Unreal Engine based simulator for drones and automotive. Compatible with ROS.
   - [GitHub repository :octocat:](https://github.com/microsoft/AirSim)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
+- [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
+  - [GitHub repository :octocat:](https://github.com/tier4/AWSIM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
+
 
 ## Related awesome
 - [Awesome point cloud analysis :octocat:](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 - [Awesome robotics :octocat:](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Awesome robotics libraries :octocat:](https://github.com/jslee02/awesome-robotics-libraries#readme)
-- [Awesome ROS2 :octocat:](https://github.com/fkromer/awesome-ros2#readme)
+- [Awesome ROS 2 :octocat:](https://github.com/fkromer/awesome-ros2#readme)
 - [Awesome artificial intelligence :octocat:](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Awesome computer vision :octocat:](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Awesome machine learning :octocat:](https://github.com/josephmisiti/awesome-machine-learning#readme)
