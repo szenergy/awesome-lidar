@@ -76,6 +76,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Aeva](https://www.aeva.com/) - Aeva is bringing the next wave of perception technology to all devices for automated driving, consumer electronics, health, industrial robotics and security, Mountain View, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/AevaInc)
   - [GitHub organization :octocat:](https://github.com/aevainc)
+- [XenomatiX](https://www.xenomatix.com/) - XenomatiX offers true solid-state lidar sensors based on a multi-beam lasers concept. XenomatiX is headquartered in Leuven, Belgium.
+  - [YouTube channel :red_circle:](https://www.youtube.com/@XenomatiXTruesolidstatelidar)
 
 ## Datasets
 
