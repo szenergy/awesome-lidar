@@ -33,3 +33,6 @@ Sick LMC132-11101 VdS,270°,single ch,1,1100,18,,https://www.sick.com/ag/en/detec
 Sick TIM551 ,270°,single ch,1,250,8,https://www.sick.com/media/pdf/5/45/045/dataSheet_TIM551-2050001_1060445_en.pdf,https://www.sick.com/gb/en,$3000,,,
 Hesia Pandora,360°,,40,,,,http://www.hesaitech.com/en/pandora.html," $35,900",,,
 Pioneer 3D-LiDAR,,,,,,,http://autonomousdriving.pioneer/en/3d-lidar/detail/chapter1/,,,,
+Pepperl+Fuchs R2000,360°,single ch,1,800,200,https://files.pepperl-fuchs.com/webcat/navi/productInfo/pds/305985_eng.pdf,https://www.pepperl-fuchs.com/usa/en/classid_53.htm?view=productdetails&prodid=86559,,,,
+Pepperl+Fuchs R2300 (B23-V1V1D-1S),100°,single ch,1,270,10,https://files.pepperl-fuchs.com/webcat/navi/productInfo/pds/70148748_eng.pdf,https://www.pepperl-fuchs.com/usa/en/classid_53.htm?view=productdetails&prodid=121113,,,,
+Pepperl+Fuchs R2300 (B23-V1V1D-4S),100°,9°,4,270,10,https://files.pepperl-fuchs.com/webcat/navi/productInfo/pds/322226_eng.pdf,https://www.pepperl-fuchs.com/usa/en/classid_53.htm?view=productdetails&prodid=125257,,,,
