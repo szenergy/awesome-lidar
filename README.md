@@ -35,7 +35,6 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - Any list item with ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar) badge has a scientific paper or detailed description
 - Any list item with ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros) badge is [`ROS 2`](https://docs.ros.org/) compatible
 
-
 ## Manufacturers
 
 - [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
@@ -153,6 +152,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/daavoo/pyntcloud)
 - [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/virtual-vehicle/pointcloudset) 
+- [LAStools](https://rapidlasso.de/lastools/) - C++ library and command-line tools for pointcloud processing and data compressing.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/LAStools/LAStools) 
 
 ## Frameworks
 
@@ -215,7 +216,6 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/url-kaist/patchwork-plusplus-ros) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=fogCM159GRk)
 
-
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
@@ -252,6 +252,11 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
+### Compression
+- [LASzip](https://rapidlasso.de/laszip/) - Open-source compression library for lossless point cloud compressing.
+  - [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://downloads.rapidlasso.de/doc/laszip.pdf)
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/LASzip/LASzip)
+
 ## LIDAR-other-sensor calibration
 
 - [direct_visual_lidar_calibration](https://koide3.github.io/direct_visual_lidar_calibration/) - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox
@@ -280,7 +285,6 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=FH7aBWDmSNA)
-
 
 ## Related awesome
 - [Awesome point cloud analysis ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
