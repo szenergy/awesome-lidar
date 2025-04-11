@@ -252,11 +252,6 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
-### Compression
-- [LASzip](https://rapidlasso.de/laszip/) - Open-source compression library for lossless point cloud compressing.
-  - [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://downloads.rapidlasso.de/doc/laszip.pdf)
-  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/LASzip/LASzip)
-
 ## LIDAR-other-sensor calibration
 
 - [direct_visual_lidar_calibration](https://koide3.github.io/direct_visual_lidar_calibration/) - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox
