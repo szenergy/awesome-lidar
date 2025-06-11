@@ -23,7 +23,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
     - [Ground segmentation](#ground-segmentation)
     - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
     - [Object detection and object tracking](#object-detection-and-object-tracking)
-  - [LIDAR-other-sensor calibration](#lidar-other-sensor-calibration)
+    - [LIDAR-other-sensor calibration](#lidar-other-sensor-calibration)
   - [Simulators](#simulators)
   - [Related awesome](#related-awesome)
   - [Others](#others)
@@ -254,7 +254,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
-## LIDAR-other-sensor calibration
+### LIDAR-other-sensor calibration
 
 - [direct_visual_lidar_calibration](https://koide3.github.io/direct_visual_lidar_calibration/) - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/koide3/direct_visual_lidar_calibration) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
