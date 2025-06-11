@@ -23,7 +23,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
     - [Ground segmentation](#ground-segmentation)
     - [Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM](#simultaneous-localization-and-mapping-slam-and-lidar-based-odometry-and-or-mapping-loam)
     - [Object detection and object tracking](#object-detection-and-object-tracking)
-    - [LIDAR-other-sensor calibration](#lidar-other-sensor-calibration)
+  - [LIDAR-other-sensor calibration](#lidar-other-sensor-calibration)
   - [Simulators](#simulators)
   - [Related awesome](#related-awesome)
   - [Others](#others)
@@ -163,6 +163,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ApolloAuto/apollo)
   - [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/ApolloAuto)
+- [ALFA Framework ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://ieeexplore.ieee.org/document/11024231) - An open-source framework for developing processing algorithms, with a focus on embedded platforms and hardware acceleration.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)](https://github.com/alfa-project/alfa-framework)
 
 ## Algorithms
 
