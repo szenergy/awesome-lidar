@@ -8,6 +8,9 @@
 
 Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
+> [!TIP]
+> An optional view: [trackawesomelist.com/szenergy/awesome-lidar](https://www.trackawesomelist.com/szenergy/awesome-lidar/readme/)
+
 ## Contents
 
 - [Awesome LIDAR ](#awesome-lidar-)
@@ -301,7 +304,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [Awesome electronics ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/kitspace/awesome-electronics#readme)
 - [Awesome vehicle security and car hacking ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Awesome LIDAR-Camera calibration ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
-- [Awesome LiDAR Place Recognition ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hogyun2/awesome-lidar-place-recognition.git)
+- [Awesome LiDAR Place Recognition ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hogyun2/awesome-lidar-place-recognition)
 - [Awesome-LiDAR-MOS ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/neng-wang/Awesome-LiDAR-MOS) Moving Object Segmentation
 - [Awesome-LiDAR-Visual-SLAM ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM)
 
