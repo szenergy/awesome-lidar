@@ -245,6 +245,14 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [RESPLE ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://arxiv.org/pdf/2504.11580) - Recursive Spline Estimation for LiDAR-Based Odometry
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ASIG-X/RESPLE) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=3-xLRRT25ys)
+- [KISS-SLAM ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/kiss2025iros.pdf) - KISS-SLAM is a simple, robust, and accurate 3D LiDAR SLAM system that just works.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/PRBonn/kiss-slam) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+- [FAST-LIO2 ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://arxiv.org/pdf/2010.08196) - Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hku-mars/FAST_LIO/tree/ROS2) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+  - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=2XNd7P6Qc2s)
+- [MOLA ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://ingmec.ual.es/~jlblanco/papers/EMCEI_2024_Aguilar.pdf) - Modular system for Localization and Mapping, providing LiDAR Odometry (LO), LiDAR-inertial Odometry (LIO), SLAM, localization-only modes, and geo-referencing.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/MOLAorg/mola) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+  - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=sbakEOnsL6Y)
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
@@ -329,3 +337,5 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/cnr-isti-vclab/meshlab) 
 - [CloudPeek](https://github.com/Geekgineer/CloudPeek) is a lightweight, c++ single-header, cross-platform point cloud viewer, designed for simplicity and efficiency without relying on heavy external libraries like PCL or Open3D.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Geekgineer/CloudPeek)
+- [Which SLAM Algorithm Should I Choose?](https://www.slambotics.org/blog/which-slam-to-choose) Slambotics -  Choosing the Right SLAM Algorithm
+
