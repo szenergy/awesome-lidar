@@ -1,6 +1,6 @@
 # Awesome LIDAR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<img src="img/lidar.svg" align="right" width="100" alt="LIDAR" />
+<img src="img/lidar02.svg" align="right" width="200" alt="LIDAR" />
 
 > A curated list of awesome LIDAR sensors and its applications.
 
