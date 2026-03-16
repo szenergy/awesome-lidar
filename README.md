@@ -352,4 +352,5 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Geekgineer/CloudPeek) ![](https://img.shields.io/github/stars/Geekgineer/CloudPeek?color=yellow&style=flat-square&logo=github)
 - [Which SLAM Algorithm Should I Choose?](https://www.slambotics.org/blog/which-slam-to-choose) Slambotics -  Choosing the Right SLAM Algorithm
 
-<img src="https://raw.githubusercontent.com/szenergy/awesome-lidar/refs/heads/main/img/cc0.svg" width="400" alt="CC0" />
+<img src="img/lidar02.svg" alt="LIDAR" />
+<img src="https://raw.githubusercontent.com/szenergy/awesome-lidar/refs/heads/main/img/cc0.svg" align="center" width="400" alt="CC0" />
