@@ -13,6 +13,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 >
 > Source code: [github.com/szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for LiDAR perception workflow orchestration, automated 3D point cloud pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Awesome LIDAR ](#awesome-lidar-)
