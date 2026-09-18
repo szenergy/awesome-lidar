@@ -325,6 +325,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [Awesome-LiDAR-MOS ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/neng-wang/Awesome-LiDAR-MOS) ![](https://img.shields.io/github/stars/neng-wang/Awesome-LiDAR-MOS?color=yellow&style=flat-square&logo=github) Moving Object Segmentation
 - [Awesome-LiDAR-Visual-SLAM ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) ![](https://img.shields.io/github/stars/sjtuyinjie/awesome-LiDAR-Visual-SLAM?color=yellow&style=flat-square&logo=github)
 - [Awesome LIDAR ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/szenergy/awesome-lidar) ![](https://img.shields.io/github/stars/szenergy/awesome-lidar?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+- [Awesome AR ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/danielcamposramos/awesome-ar#readme) ![](https://img.shields.io/github/stars/danielcamposramos/awesome-ar?color=yellow&style=flat-square&logo=github)
 
 ## Others
 - [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
