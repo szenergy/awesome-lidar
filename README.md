@@ -162,6 +162,8 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/virtual-vehicle/pointcloudset) ![](https://img.shields.io/github/stars/virtual-vehicle/pointcloudset?color=yellow&style=flat-square&logo=github)
 - [LAStools](https://rapidlasso.de/lastools/) - C++ library and command-line tools for pointcloud processing and data compressing.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/LAStools/LAStools) ![](https://img.shields.io/github/stars/LAStools/LAStools?color=yellow&style=flat-square&logo=github)
+- [lasrs-cpp](https://github.com/bloom256/lasrs-cpp) - C++20 and C library for reading and writing LAS, LAZ and COPC with parallel LAZ decoding, built on the Rust crates las-rs and laz-rs.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/bloom256/lasrs-cpp) ![](https://img.shields.io/github/stars/bloom256/lasrs-cpp?color=yellow&style=flat-square&logo=github)
 
 ## Frameworks
 
