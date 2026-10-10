@@ -165,6 +165,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [lasrs-cpp](https://github.com/bloom256/lasrs-cpp) - C++20 and C library for reading and writing LAS, LAZ and COPC with parallel LAZ decoding, built on the Rust crates las-rs and laz-rs.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/bloom256/lasrs-cpp) ![](https://img.shields.io/github/stars/bloom256/lasrs-cpp?color=yellow&style=flat-square&logo=github)
 
+- [erdi-lrf-drivers](https://github.com/yu911517778-a11y/erdi-lrf-drivers) - Open-source Python, Arduino and ROS 2 driver library for 905 nm eye-safe pulsed laser rangefinder modules (single-point distance sensors for robot/UAV/UGV obstacle avoidance and altitude hold), covering two published serial protocol families with every constant cited to the manufacturer manual.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/yu911517778-a11y/erdi-lrf-drivers) ![](https://img.shields.io/github/stars/yu911517778-a11y/erdi-lrf-drivers?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+
 ## Frameworks
 
 - [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
