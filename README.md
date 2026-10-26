@@ -357,6 +357,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [CloudPeek](https://github.com/Geekgineer/CloudPeek) is a lightweight, c++ single-header, cross-platform point cloud viewer, designed for simplicity and efficiency without relying on heavy external libraries like PCL or Open3D.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Geekgineer/CloudPeek) ![](https://img.shields.io/github/stars/Geekgineer/CloudPeek?color=yellow&style=flat-square&logo=github)
 - [Which SLAM Algorithm Should I Choose?](https://www.slambotics.org/blog/which-slam-to-choose) Slambotics -  Choosing the Right SLAM Algorithm
+- [LidarKit](https://lidar-kit.com/) - Browser-based viewer and converter for LAS, LAZ, COPC and E57 that decodes files locally with WebAssembly (nothing is uploaded), with ground classification and DEM/orthophoto export.
 
 <img src="img/lidar02.svg" alt="LIDAR" />
 <img src="https://raw.githubusercontent.com/szenergy/awesome-lidar/refs/heads/main/img/cc0.svg" align="center" width="400" alt="CC0" />
