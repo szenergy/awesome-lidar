@@ -102,6 +102,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Riegl](https://www.riegl.com/) - Riegl is a manufacturer of 3D laser scanning systems, based in Austria.
   - [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@RIEGLLIDAR)
   - [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/riegllms) ![](https://img.shields.io/github/stars/riegllms?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+- [ERDI](https://specs.erdilrf.com/) - Laser rangefinder module and single-point LIDAR manufacturer (905 / 940 / 1535 nm, 9 m to 23 km), headquartered in Chengdu, China. Publishes an open specification dataset where every range figure keeps the verbatim test condition it was measured under.
+  - [Specification dataset ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/erdilrf-afk/erdi-lrf-specs)
+
 ## Datasets
 
 - [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
