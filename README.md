@@ -104,6 +104,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/riegllms) ![](https://img.shields.io/github/stars/riegllms?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
 - [ERDI](https://specs.erdilrf.com/) - Laser rangefinder module and single-point LIDAR manufacturer (905 / 940 / 1535 nm, 9 m to 23 km), headquartered in Chengdu, China. Publishes an open specification dataset where every range figure keeps the verbatim test condition it was measured under.
   - [Specification dataset ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/erdilrf-afk/erdi-lrf-specs)
+  - [Python / Arduino / ROS 2 driver library ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ErdiTech/erdi-lrf-drivers) ![](https://img.shields.io/github/stars/ErdiTech/erdi-lrf-drivers?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
 
 ## Datasets
 
